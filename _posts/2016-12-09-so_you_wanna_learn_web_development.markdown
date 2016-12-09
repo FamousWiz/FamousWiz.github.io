@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "So you wanna learn Web Development"
-date:   2016-12-09 18:45:28 +0000
+title:  "So, you wanna learn Web Development?"
+date:   2016-12-09 13:45:28 -0500
 ---
 
 
