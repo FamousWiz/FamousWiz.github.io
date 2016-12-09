@@ -1,10 +1,10 @@
 # Site settings
-title: Adventures in Web Development
+title: Gene's Adventures in Web Development
 header-img: img/home-bg.png
 email: geneedwinm@gmail.com
 copyright_name: FamousWiz
 description: > # this means to ignore newlines until "baseurl:"
-  If I build it, they will come.
+  Follow me as I find my place in the world of coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  FamousWiz
